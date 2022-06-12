@@ -37,7 +37,7 @@ global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/ssweetryy'
 global.mygc = 'https://chat.whatsapp.com/CpfuePddBSH9VUJQLUzHtb'
 global.myweb = 'https://rafi-sansline.xyz'
-global.email = anonymous@gmail.com'
+global.email = 'anonymous@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
